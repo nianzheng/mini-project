@@ -1,0 +1,13 @@
+/*universal Selector */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Element Selector */
+body {
+    position: relative;
+    font-family: "fantasy", sans-serif;
+    font-size: x-large;
+    background-color: black;
+    color: orange;
